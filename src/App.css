@@ -63,16 +63,6 @@ h3 {
   padding: 10px;
 }
 
-/* .dots {
-  display: flex;
-  width: 13px;
-  height: 3px;
-  gap: 0px;
-  vertical-align: middle;
-  align-content: center;
-  align-items: center;
-  flex-direction: column;
-} */
 .dots {
   display: flex;
   width: 13px;
@@ -82,7 +72,7 @@ h3 {
   align-content: center;
   align-items: center;
   flex-direction: column;
-  cursor: pointer; /* Adds a pointer cursor to indicate it's clickable */
+  cursor: pointer;
 }
 
 .chart-box {
@@ -161,7 +151,6 @@ h3 {
   border-radius: 10px;
   overflow: hidden;
   width: 80px;
-  /* height: 265px; */
 }
 
 .component {
@@ -309,7 +298,6 @@ h3 {
   background-color: #f0f0f0;
 }
 
-/* Close button style */
 .close-button {
   background-color: transparent;
   border: none;
